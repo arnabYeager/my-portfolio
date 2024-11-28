@@ -18,6 +18,8 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 
 This portfolio is designed to highlight my skills and projects as a developer. It includes sections for my bio, projects, and contact information, all styled with a modern design.
 
+<a href="https://arnabyeager.github.io/my-portfolio/"><strong>➥ Live Website</strong></a>
+
 ## Features
 
 - Responsive design
@@ -97,4 +99,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Feel free to reach out via the contact form on the website or directly at [arnabbakshi2003@gmail.com](mailto:bakshiarnab2001@gmail.com).
+Feel free to reach out via the contact form on the website or directly at [bakshiarnab2001@gmail.com](mailto:bakshiarnab2001@gmail.com).
