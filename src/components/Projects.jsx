@@ -1,23 +1,25 @@
 import React from 'react'
-
+import portfolio from '../images/portfolio.png';
+import todo from '../images/ToDo.png';
+import foodie from '../images/Foodie.png';
 export default function Projects() {
   const projects = [
     {
       title: "Portfolio Website",
       description: "A responsive portfolio website built with React, Tailwind CSS, and JavaScript.",
-      image: "./src/images/portfolio.png?height=300&width=400",
+      image: portfolio,
       link: "#"
     },
     {
       title: "ToDo List",
       description: "Built a responsive To-Do app using ReactJS, enabling users to create, organize, mark as complete, and delete tasks with a seamless and interactive UI.",
-      image: "./src/images/ToDo.png?height=300&width=400",
+      image: todo,
       link: "https://github.com/arnabYeager/To-Do-app-using-ReactJS"
     },
     {
       title: "Foodie E-commerce site",
       description: "Created a dynamic e-commerce website, Foodie, using HTML, CSS, and JavaScript, featuring interactive UI and basic cart functionality",
-      image: "./src/images/Foodie.png?height=300&width=400",
+      image: foodie,
       link: "https://github.com/arnabYeager/foodie_E-commerce-site"
     }
   ];

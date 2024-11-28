@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Moon, Sun, Menu, X } from 'lucide-react';
+import logo from '../images/photo.png';
 
 function Navbar({ activeSection, setActiveSection, scrollToSection }) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -37,7 +38,7 @@ function Navbar({ activeSection, setActiveSection, scrollToSection }) {
     <nav className="bg-white dark:bg-gray-800 shadow-md py-4 fixed w-full top-0 z-50 transition-all duration-300 ease-in-out">
       <div className="max-w-full w-full mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
         <div className="flex items-center">
-          <img className="h-auto w-auto max-h-12 max-w-12 rounded-full" src="./src/images/photo.png" alt="Your Logo" />
+          <img className="h-auto w-auto max-h-12 max-w-12 rounded-full" src={logo} alt="Logo" />
           <span className="ml-3 text-2xl font-semibold text-gray-900 dark:text-white">Arnab Bakshi</span>
         </div>
         <div className="hidden md:flex items-center space-x-6">
