@@ -8,7 +8,7 @@ export default function Projects() {
       title: "Portfolio Website",
       description: "A responsive portfolio website built with React, Tailwind CSS, and JavaScript.",
       image: portfolio,
-      link: "#"
+      link: "https://github.com/arnabYeager/my-portfolio"
     },
     {
       title: "ToDo List",
