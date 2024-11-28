@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://arnabYeager.github.io/arnab_portfolio/",
+  "homepage": "https://arnabYeager.github.io/my-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
