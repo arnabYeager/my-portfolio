@@ -13,13 +13,7 @@ export default function About() {
           <div>
             <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">About Me</h3>
             <p className="text-lg text-gray-700 dark:text-gray-300">
-              I am a B.Tech fresher 2024 candidate with a background in Electrical Engineering. 
-              I have been learning web development for 1 year and am passionate and creative about frontend development, 
-              with basic knowledge of backend. I am enthusiastic about full stack web development and am continuously 
-              learning new technologies to become a full stack web developer. I am currently looking for good opportunities 
-              and will do my best to fit as a developer. I am also a quick learner and good at communication, 
-              making me a valuable part of any development team.
-            </p>
+            I am a 2024 B.Tech graduate in Electrical Engineering with a strong passion for web development. Over the past year, I have dedicated myself to learning and honing my skills in front-end development, complemented by a foundational understanding of back-end technologies. Enthusiastic about pursuing a career in full-stack web development, I remain committed to continuously expanding my expertise in modern technologies to excel in this field. As a quick learner with strong communication skills, I thrive in collaborative environments and look forward to contributing as a valuable member of any development team. I am actively seeking opportunities to leverage my creativity and technical skills to deliver impactful web solutions and grow as a professional developer.            </p>
           </div>
           <div>
             <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Key Skills</h3>
